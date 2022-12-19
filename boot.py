@@ -13,3 +13,7 @@ for i in range(100):
     led.value(0)
     time.sleep(.1)
     
+    
+import ugit
+ugit.pull_all()
+
