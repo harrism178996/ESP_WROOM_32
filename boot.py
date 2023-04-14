@@ -4,16 +4,12 @@
 import machine
 import time
 
-led = machine.Pin(15,machine.Pin.OUT)
+print('hello ugit users!')
 
+print('I am working on an issue with ugit running into mem errors when connected to a computer')
+print('ugit seems to work well when battery powered or not in an active REPL session.')
 
-for i in range(100):
-    led.value(1)
-    time.sleep(.4)
-    led.value(0)
-    time.sleep(.1)
+print('I hope you enjoy it!')
     
-    
-import ugit
-ugit.pull_all()
+
 
