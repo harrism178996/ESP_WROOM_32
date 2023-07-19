@@ -4,7 +4,7 @@
 import machine
 import time
 import Q
-import ugit
+#import ugit
 
 
 
