@@ -26,6 +26,5 @@ if button() == 0:
     print('boot button pressed')
     ugit.pull_all()
     print('pulling github repo')
-else:
-        none
+
     
