@@ -10,6 +10,6 @@ import Q
 
 print('Boot initialized')
 #ugit.pull_all()
-print('Repository Pulled')
+#print('Repository Pulled')
 
 
