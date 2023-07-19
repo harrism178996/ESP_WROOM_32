@@ -9,7 +9,7 @@ import ugit
 
 
 print('Boot initialized')
-ugit.pull_all()
+#ugit.pull_all()
 print('Repository Pulled')
 
 
